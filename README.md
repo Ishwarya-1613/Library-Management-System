@@ -1,0 +1,1 @@
+Develop a Python program to manage library resources such as books, magazines, and DVDs, with functionalities for adding new items, checking out and returning items, managing overdue fines, and searching for items by title, author, or category.
